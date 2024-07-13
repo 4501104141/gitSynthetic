@@ -1,6 +1,11 @@
 this is a line one
+<<<<<<< HEAD
 this is a EDIT line two
 this is a line three
+=======
+this is a line two
+this is a line EDIT three
+>>>>>>> 8
 this is a line four
 this is a line five
 this is a line six
