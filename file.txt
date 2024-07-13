@@ -1,7 +1,12 @@
 this is a line one
 this is a line two
+<<<<<<< HEAD
 I ALSO ADD THIS LINE 1
 I ALSO ADD THIS LINE 2
+=======
+I ADD THIS LINE 1
+I ADD THIS LINE 2
+>>>>>>> 10
 this is a line three
 this is a line four
 this is a line five
