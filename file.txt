@@ -1,5 +1,9 @@
 thís is a line one
+<<<<<<< HEAD
 this is a line three
+=======
+this is a line two
+>>>>>>> 4
 this is a line four
 this is a line five
 this is a line six
