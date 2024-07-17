@@ -2,8 +2,11 @@ this is a line one
 this is a line two
 this is a line three
 this is a line four
+<<<<<<< HEAD
 I ADD THIS LINE 1
 I ADD THIS LINE 2
 I ADD THIS LINE 3
 this is a line five
+=======
+>>>>>>> 22
 this is a line six
