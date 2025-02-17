@@ -1,0 +1,4 @@
+Khi sửa xoá bên cạnh dòng hoặc cùng dòng thì sẽ conflict.
+Khi thêm cùng dòng sẽ conflict.
+Khi xoá file mà nhánh khác đang thêm sửa xoá thì sẽ conflict.
+Khi sửa tên file cùng file thì sẽ conflict.
